@@ -1,6 +1,6 @@
 # toshiro-shibakita
 
-Projeto de teste que visa solucionar o desafio Docker: Utilização Prática no Cenário de Microsserviços;
+Projeto de exercício que visa solucionar o desafio Docker: Utilização Prática no Cenário de Microsserviços;
 
 A tecnologia de Containers promete mudar a maneira como as operações de TI são realizadas, abstraindo ambientes de desenvolvimento e otimizando o consumo de recursos. Nesse contexto, conheça o Docker, implemente uma estrutura de Microsserviços com as melhores práticas do mercado internacional e ganhe independência entre aplicações e infraestrutura em mais um conteúdo exclusivo por aqui.
 
